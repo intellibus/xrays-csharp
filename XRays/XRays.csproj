@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<AssemblyVersion>1.0.7.5</AssemblyVersion>
+	<FileVersion>1.0.7.5</FileVersion>
+	<Version>1.0.7.5</Version>
+	<Authors>Intellibus</Authors>
+	<Product>Pansynchro XRays</Product>
+	<Description>Catch Errors Before They Become Fatal</Description>
+	<Copyright>Copyright 2022, Intellibus</Copyright>
+	<PackageProjectUrl>https://github.com/intellibus/xrays-csharp/tree/main</PackageProjectUrl>
+	<PackageTags>error-handling;open-source-universe;intellibus</PackageTags>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
