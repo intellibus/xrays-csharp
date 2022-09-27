@@ -1,6 +1,6 @@
-# xrays
+# XRays
 
-![Xrays — Catch Errors before they become Fatal](assets/xrays.png)
+![XRays — Catch Errors before they become Fatal](assets/xrays.png)
 
 > An [Open Source Universe](https://github.com/intellibus/approach) Project
 
@@ -28,7 +28,7 @@
 
 ## Usage 🔭
 
-Read more about the [Design](https://github.com/intellibus/xrays/blob/main/DESIGN.md) behind `xrays` here.
+Read more about the [Design](https://github.com/intellibus/xrays-csharp/blob/main/DESIGN.md) behind `XRays` here.
 
 ```cs
 using XRays;
@@ -55,7 +55,7 @@ var ( data, error ) = await Throwable(true).X();
 
 We would love for you to contribute your ideas, code, & fixes to `xrays`.
 
-We encourage everyone to read our [Design Document](https://github.com/intellibus/xrays/blob/main/DESIGN.md) to learn more about the thought process behind xrays.
+We encourage everyone to read our [Design Document](https://github.com/intellibus/xrays-csharp/blob/main/DESIGN.md) to learn more about the thought process behind xrays.
 
 Also check out the [rewards](https://github.com/intellibus/approach/blob/main/REWARDS.md) offered for contributing to the [Open Source Universe](https://github.com/intellibus/approach).
 
